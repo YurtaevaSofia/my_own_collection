@@ -1,0 +1,22 @@
+### REQUIRED
+namespace: my_own_namespace
+name: yandex_cloud_elk
+version: 1.0.0
+readme: README.md
+authors:
+  - Sofia Yurtaeva <yurtaeva.sofia@yandex.ru>
+
+### OPTIONAL
+description: Homework collection with custom module my_own_module and role create_file
+license:
+  - GPL-3.0-or-later
+tags:
+  - file
+  - homework
+dependencies: {}
+repository: https://github.com/YurtaevaSofia/my_own_collection
+documentation: https://github.com/YurtaevaSofia/my_own_collection/blob/main/my_own_namespace/yandex_cloud_elk/README.md
+homepage: https://github.com/YurtaevaSofia/my_own_collection
+issues: https://github.com/YurtaevaSofia/my_own_collection/issues
+build_ignore:
+  - '*.tar.gz'

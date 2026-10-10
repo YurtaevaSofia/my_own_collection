@@ -1,0 +1,5 @@
+---
+- name: Create text file with my_own_module
+  my_own_namespace.yandex_cloud_elk.my_own_module:
+    path: "{{ create_file_path }}"
+    content: "{{ create_file_content }}"

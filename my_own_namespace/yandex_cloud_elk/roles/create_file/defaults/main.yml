@@ -1,0 +1,5 @@
+---
+# Path to the file on the target host
+create_file_path: /tmp/my_own_module_role.txt
+# Content of the file
+create_file_content: "Hello from role create_file!\n"

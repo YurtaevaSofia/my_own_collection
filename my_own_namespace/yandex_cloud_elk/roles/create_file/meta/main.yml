@@ -1,0 +1,8 @@
+---
+galaxy_info:
+  author: Sofia Yurtaeva
+  description: Single task role that creates a text file using my_own_module
+  license: GPL-3.0-or-later
+  min_ansible_version: "2.15"
+  galaxy_tags: []
+dependencies: []
